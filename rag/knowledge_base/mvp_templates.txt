@@ -1,0 +1,20 @@
+SaaS MVP Template:
+- User authentication
+- Basic dashboard
+- Core feature (single workflow)
+- Billing integration
+- Admin panel
+
+Marketplace MVP:
+- User roles (buyer/seller)
+- Listing system
+- Search and filter
+- Payment integration
+- Review system (basic)
+
+AI Product MVP:
+- Input interface
+- Model inference backend
+- Result display
+- Basic history storage
+- Usage limits

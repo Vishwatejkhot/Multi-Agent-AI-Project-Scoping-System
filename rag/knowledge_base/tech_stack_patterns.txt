@@ -1,0 +1,16 @@
+AI-heavy product:
+- Backend: FastAPI
+- AI layer: Python
+- Vector DB: FAISS or Pinecone
+- DB: PostgreSQL
+- Frontend: React or Next.js
+
+Mobile-first:
+- React Native
+- Firebase backend
+- Stripe for payments
+
+Early-stage low-budget:
+- Supabase
+- Vercel
+- Serverless functions

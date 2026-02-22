@@ -1,0 +1,8 @@
+Common Startup Risks:
+- Overbuilding before validation
+- High AI inference costs
+- Security vulnerabilities
+- Scaling issues
+- Poor data quality
+- Compliance (GDPR)
+- Vendor lock-in

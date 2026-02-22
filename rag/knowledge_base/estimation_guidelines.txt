@@ -1,0 +1,16 @@
+Simple MVP:
+1-2 developers
+4-6 weeks
+
+Moderate complexity:
+2-4 developers
+8-12 weeks
+
+AI integrated product:
+3-5 developers
+10-16 weeks
+
+Typical cost:
+Small MVP: $15k - $40k
+Medium: $50k - $120k
+AI-heavy: $80k - $250k
